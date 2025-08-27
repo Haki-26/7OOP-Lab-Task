@@ -6,7 +6,8 @@
 Hi! My name is **[Your Name]**.  
 I’m currently a student learning Object-Oriented Programming and passionate about technology.
 
-![My Picture](https://via.placeholder.com/150)  
+![My Picture](![504854380_4155778621374311_6840816847341571298_n](https://github.com/user-attachments/assets/9516ccd6-7359-4b0c-aa0d-a602b6aa19a3)
+)  
 *(Replace with your real picture – upload to GitHub or use an image link)*
 
 ---
@@ -28,7 +29,7 @@ I’m currently a student learning Object-Oriented Programming and passionate ab
 ---
 
 ## 🔗 Project Links
-- [https://docs.google.com/document/d/1FCXkM5t90-3nzJkuJ048NhGmEFe4qiZu9vtfyVF8CC8/edit?pli=1&tab=t.0]
+- []
 - [Lab Task 2](#)
 - [Lab Task 3](#)
 *(Update these with actual links to your tasks in the repo)*
@@ -36,16 +37,16 @@ I’m currently a student learning Object-Oriented Programming and passionate ab
 ---
 
 ## 🎉 Fun Facts About Me
-- I love coding late at night 🌙  
+- I love motorcycle rides 🏍️ 
 - I enjoy gaming 🎮  
 - Music helps me focus 🎧  
-
+- i love dancing 🕺
 ---
 
 ## 📬 Contact Me
 - **Facebook:** [https://www.facebook.com/]  
 - **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** yourname@gmail.com  
+- **Email:** podsh1914@gmail.com  
 
 ---
 ✨ Thank you for visiting my repository! ✨
