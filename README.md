@@ -43,9 +43,9 @@ I’m currently a student learning Object-Oriented Programming and passionate ab
 ---
 
 ## 📬 Contact Me
-- **Facebook:** [Your FB Profile Link]  
+- **Facebook:** [https://www.facebook.com/]  
 - **LinkedIn:** [Your LinkedIn Profile Link]  
-- **Email:** yourname@email.com  
+- **Email:** yourname@gmail.com  
 
 ---
 ✨ Thank you for visiting my repository! ✨
