@@ -28,7 +28,7 @@ I’m currently a student learning Object-Oriented Programming and passionate ab
 ---
 
 ## 🔗 Project Links
-- [Lab Task 1](https://docs.google.com/document/d/1FCXkM5t90-3nzJkuJ048NhGmEFe4qiZu9vtfyVF8CC8/edit?pli=1&tab=t.0)
+- [Lab Task 1 https://docs.google.com/document/d/1FCXkM5t90-3nzJkuJ048NhGmEFe4qiZu9vtfyVF8CC8/edit?pli=1&tab=t.0](#)
 - [Lab Task 2](#)
 - [Lab Task 3](#)
 *(Update these with actual links to your tasks in the repo)*
