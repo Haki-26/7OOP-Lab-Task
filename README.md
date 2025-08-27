@@ -6,7 +6,8 @@
 Hi! My name is **[Your Name]**.  
 I’m currently a student learning Object-Oriented Programming and passionate about technology.
 
-![My Picture](![504854380_4155778621374311_6840816847341571298_n](https://github.com/user-attachments/assets/9516ccd6-7359-4b0c-aa0d-a602b6aa19a3)
+![![504854380_4155778621374311_6840816847341571298_n](https://github.com/user-attachments/assets/87947d40-7a06-4916-8e7e-34177cfc692c)
+](![504854380_4155778621374311_6840816847341571298_n](https://github.com/user-attachments/assets/9516ccd6-7359-4b0c-aa0d-a602b6aa19a3)
 )  
 *(Replace with your real picture – upload to GitHub or use an image link)*
 
