@@ -39,7 +39,7 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 ## 🎉 Fun Facts About Me  
 - I love playing volleyball 🏐 
 - I love eating and travelling 🍲🏍️
-- Coffee is my coding fuel ☕  
+- Coffee is my fuel ☕  
 - Big fan of anime & movies 🎬  
 
 ---
@@ -51,6 +51,7 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 -   
 
 ---
+
 
 
 
