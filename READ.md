@@ -44,11 +44,12 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 ---
 
 ## 📬 Contact Me  
-- **Facebook**: [Your FB Link]  
+- **Facebook**: https://www.facebook.com/  
 - **LinkedIn**: [Your LinkedIn Profile]  
 - **Email**: [Your Email Address]  
 
 ---
+
 
 
 
