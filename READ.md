@@ -6,9 +6,9 @@
 Hi! I’m **[Harry Kim G. Constantino]**, currently studying [Your Course & Year Level].  
 I enjoy exploring new technologies, building small projects, and constantly learning.  
 
-![My Picture](![wa](https://github.com/user-attachments/assets/483e681b-8a76-42ed-acfc-4afa9c21fe9d)
+(![wa](https://github.com/user-attachments/assets/483e681b-8a76-42ed-acfc-4afa9c21fe9d)
 jpg)  
-*(Replace this link with your real picture uploaded in the repo)*
+
 
 ---
 
@@ -49,4 +49,5 @@ jpg)
 - **Email**: [Your Email Address]  
 
 ---
+
 
