@@ -3,10 +3,11 @@
 ---
 
 ## 👤 About Me  
-Hi! I’m **[Your Full Name]**, currently studying [Your Course & Year Level].  
+Hi! I’m **[Harry Kim G. Constantino]**, currently studying [Your Course & Year Level].  
 I enjoy exploring new technologies, building small projects, and constantly learning.  
 
-![My Picture](https://github.com/your-username/your-repo-name/blob/main/profile.jpg)  
+![My Picture](![wa](https://github.com/user-attachments/assets/483e681b-8a76-42ed-acfc-4afa9c21fe9d)
+jpg)  
 *(Replace this link with your real picture uploaded in the repo)*
 
 ---
@@ -48,3 +49,4 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 - **Email**: [Your Email Address]  
 
 ---
+
