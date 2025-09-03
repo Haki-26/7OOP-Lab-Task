@@ -6,7 +6,7 @@
 Hi! I’m **Harry Kim G. Constantino**, currently studying ACT 2nd Year.  
 I enjoy exploring new technologies, building small projects, and constantly learning.  
 
-https://github.com/username/repository-name/blob/main/resized_image_2x2.jpg
+![wa](https://github.com/user-attachments/assets/483e681b-8a76-42ed-acfc-4afa9c21fe9d)
 
 
 
@@ -51,6 +51,7 @@ https://github.com/username/repository-name/blob/main/resized_image_2x2.jpg
 -   
 
 ---
+
 
 
 
