@@ -30,7 +30,7 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 ---
 
 ## 🔗 Project Links  
-- [Project 1: Student Management System](https://github.com/your-username/project1)  
+- [📄 View Lab Task 1 (PDF)](./Lab%20Task%201.pdf) 
 - [Project 2: Simple Calculator in Java](https://github.com/your-username/project2)  
 - [Project 3: Portfolio Website](https://github.com/your-username/project3)  
 
@@ -51,6 +51,7 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 -   
 
 ---
+
 
 
 
