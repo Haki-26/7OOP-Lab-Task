@@ -32,7 +32,8 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 ## 🔗 Lab Tasks Links  
 - [📄 View Lab Task 1 (PDF)](./Lab%20Task%201.pdf) 
 - [📄 View Lab Task 2 (PDF)](./Lab%20Task%202.pdf)
-- [Project 3: Portfolio Website](https://github.com/your-username/project3)  
+- [📄 View Lab Task 3 (PDF)](./Lab%20Task%203.pdf)
+-
 
 ---
 
@@ -51,6 +52,7 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 -   
 
 ---
+
 
 
 
