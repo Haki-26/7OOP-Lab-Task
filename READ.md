@@ -33,7 +33,10 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 - [📄 View Lab Task 1 (PDF)](./Lab%20Task%201.pdf) 
 - [📄 View Lab Task 2 (PDF)](./Lab%20Task%202.pdf)
 - [📄 View Lab Task 3 (PDF)](./Lab%20Task%203.pdf)
--
+- [📄 View Lab Task 4 (PDF)](./Lab%20Task%204.pdf)
+- [📄 View Lab Task 5 (PDF)](./Lab%20Task%205.pdf)
+-[📄 View Lab Task 6 (PDF)](./Lab%20Task%206.pdf)
+
 
 ---
 
@@ -52,6 +55,7 @@ I enjoy exploring new technologies, building small projects, and constantly lear
 -   
 
 ---
+
 
 
 
